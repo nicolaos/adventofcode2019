@@ -1,4 +1,4 @@
-import aoc2018.day01
+import aoc2019.day01
 import org.scalatest.{FunSuite, Matchers}
 
 /** @version 1.0.0 */

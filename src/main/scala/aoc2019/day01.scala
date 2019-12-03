@@ -1,4 +1,4 @@
-package aoc2018
+package aoc2019
 
 import scala.io.Source
 
